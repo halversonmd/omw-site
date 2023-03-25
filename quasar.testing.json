@@ -1,0 +1,8 @@
+{
+  "unit-vitest": {
+    "runnerCommand": "vitest run"
+  },
+  "unit-jest": {
+    "runnerCommand": "jest --ci"
+  }
+}
