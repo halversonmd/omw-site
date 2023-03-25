@@ -38,6 +38,8 @@ npm run format
 
 ### Build the app for production
 
+#### This command will attempt to deploy the new build directly to firebase hosting
+
 ```bash
 quasar build
 ```
