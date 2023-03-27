@@ -4,7 +4,7 @@ This is a utility website to track the location of someone sent you the URL.
 
 The OnMyWay! app is available to download on the iOS store [here](https://apps.apple.com/us/app/on-my-way-texts/id1640130719).
 
-The code for the OnMYWay! App can be found [here]().
+The code for the OnMYWay! App can be found [here](https://github.com/halversonmd/omw-app).
 
 ## Install the dependencies
 
